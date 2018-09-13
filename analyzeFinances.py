@@ -13,7 +13,7 @@ from bankCategorizer import bankCategorizer
 
 LABEL, DATE, EUR, TEXT = range(0, 4)
 
-konten = {'AT081420020000847284': 'easyKreditkarte', "AT871420020011416340": "easyGiro", "paypal": "Paypal"}
+konten = {'AT0814200xxxx': 'easyKreditkarte', "AT8714200xxxx": "easyGiro", "paypal": "Paypal"}
 
 
 def main():
